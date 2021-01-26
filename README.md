@@ -1,7 +1,5 @@
-# Book-Recomendation
-## Book Recommendation System (2020.07.04)
-
-2020년 1학기 YBIGTA Conference</br>
+# Book-Recomendation-System
+## 2020년 1학기 YBIGTA Conference (2020.07.04)
 
 ### Participants
 김수정 김용우 노시영 박솔희 박준민
